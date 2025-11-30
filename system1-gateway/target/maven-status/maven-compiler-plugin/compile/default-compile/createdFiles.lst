@@ -1,0 +1,5 @@
+com\bank\poc\gateway\controller\TransactionController.class
+com\bank\poc\gateway\config\SecurityConfig.class
+com\bank\poc\gateway\dto\ProcessResponse.class
+com\bank\poc\gateway\dto\TransactionRequest.class
+com\bank\poc\gateway\GatewayApplication.class
